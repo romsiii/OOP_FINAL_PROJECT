@@ -58,6 +58,7 @@ def Register():
         citytxt.delete(0, 'end')
         countrytxt.delete(0, 'end')
         contacttxt.delete(0, 'end')
+        socmedacctxt.delete(0, 'end')
         socmedacc_idtxt.delete(0, 'end')
         pictureptxt.delete(0, 'end')
         confirmtxt.delete(0, 'end')
